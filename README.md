@@ -1,5 +1,4 @@
-# whbing.github.io
-王洪兵的github展示页面
+# 一些基本的算法积累
 
 基础算法
 
